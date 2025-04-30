@@ -12,18 +12,27 @@ Smart Lens is an AI-powered application that enhances visual perception using co
 
 ## 🚀 Features
 
-- 📷 Real-time object detection
-- 🔤 OCR (Optical Character Recognition) for reading printed text
-- 😊 Face recognition
-- 🌐 Language translation (optional integration)
-- 🎯 Audio feedback for visually impaired users
-- 💾 Offline processing support (optional)
+-  Real-time object detection
+-  OCR (Optical Character Recognition) for reading printed text
+-  Face recognition
+-  Language translation (optional integration)
+-  Audio feedback for visually impaired users
+-  Offline processing support (optional)
+-  Zoom and Autofocus
+-  Health Monitoring Features
+-  Customizable Vision Support
 
-## 📦 Technologies Used
-- depth sensor like LiDAR AND cameras (RGB/IR) gather envoirnment data 
-- AI algorithms 
-- Audio cues
-- visual overlays assist the user 
+## Technologies Used
+-  depth sensor like LiDAR AND cameras (RGB/IR) gather envoirnment data  
+-  Audio cues
+-  visual overlays assist the user 
 -  Miniaturised sensors
-- Visus technology 
-- 
+-  Visus technology 
+
+## Advantages 
+-  Enhanced Navigation
+-  Increased Independence
+-  Zoom and Autofocus
+-  Discreet and Stylish
+-  Health Monitoring Features
+-  Customizable Vision Support
