@@ -36,3 +36,6 @@ Smart Lens is an AI-powered application that enhances visual perception using co
 -  Discreet and Stylish
 -  Health Monitoring Features
 -  Customizable Vision Support
+
+## Code for making the website for our product 
+ 
