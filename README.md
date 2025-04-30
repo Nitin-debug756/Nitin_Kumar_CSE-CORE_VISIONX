@@ -5,6 +5,8 @@ TEAM MEMBER : NITIN KUMAR 2401010275
 
             VISION X 
             A SMART LENS FOR VIUALLY IMPAIRED PEOPLE
+            LINK FOR OUR WEBSITE - http://vision-x-ipxw.onrender.com
+            LINK FOR OUR DASHBOARD AND ORDERS - http://adminvisionx.onrender.com 
 
 Smart Lens is an AI-powered application that enhances visual perception using computer vision. It can detect objects, recognize text, identify faces, and more—all in real-time. Designed for accessibility, assistance, and practical use in various fields like healthcare, security, and education.
 
